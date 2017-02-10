@@ -1,6 +1,7 @@
 body {
       margin:50px auto;
       width: 75%;
+      text-align: center;
       }
       
 navl ul, footer ul{
@@ -11,40 +12,50 @@ navl ul, footer ul{
        na vul li, footer ul li {
            display: inline;
            margin-right: 20px;
+             text-align: center;
            }
            
  a {
     text-decoration: none;
     color: #999;
+       text-align: center;
     }
     
   a:hover {
           text-decoration: underline;
+        text-align: center;
           }
           
     h1 {
         font-size: 3em;
         font-family:'Helvetic', 'Arial','Sans-Serif';
+         text-align: center; 
         }
         
      p {
      font-size: 1.5em;
      line-height: 1.4em;
      color: #333;
+     text-align: center;
+     letter-spacing:2px;
+           
      }
      
      footer {
              border-top: 1px solid #d5d5d5;
              font-size: .8em;
+           text-align: center;
              }
              
         ul.posts {
                   margin: 20px auto 40px;
                   font-size: 1.5em;
+              text-align: center;
                   }
                   
          ul.posts li  {
          list-style: none;
+               text-align: center;
          }
                        
              
