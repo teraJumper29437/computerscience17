@@ -20,6 +20,7 @@ navl ul, footer ul{
     text-decoration: none;
     color: #999;
        text-align: center;
+       font-family: 'Verdana';
     }
     
   a:hover {
@@ -63,7 +64,14 @@ navl ul, footer ul{
                    margin:10px auto 30px;
                    font-family:'Raleway';
                    line-height: 1.5em;
-                   text-align:center;
+                   text-align:center; }
+                  
+             .random {
+                   margin: 15px auto 40px;
+                   font-family:'Tahoma';
+                   color:
+                   
+                   
                    
                    
                    
