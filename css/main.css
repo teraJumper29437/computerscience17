@@ -5,7 +5,7 @@ body {
       }
       
 navl ul, footer ul{
-       font-family: 'Helvetica","arial","sans-Serif";
+       font-family: 'Helvetica','arial','sans-Serif';
        padding: 0px;
        list-style: none;
        font-weigth: bold;
