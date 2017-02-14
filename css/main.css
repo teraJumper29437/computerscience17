@@ -6,8 +6,7 @@ body {
       
 navl ul, footer ul{
        font-family: 'Helvetica','arial','sans-Serif';
-       padding: 0px;
-       list-style: none;
+       padding: 0px;       list-style: none;
        font-weigth: bold;
        na vul li, footer ul li {
            display: inline;
@@ -17,8 +16,7 @@ navl ul, footer ul{
            }
            
  a {
-    text-decoration: none;
-    color: #999;
+    text-decoration: none;    color: #999;
        text-align: left;
        font-family: 'Verdana';
     }
@@ -31,14 +29,14 @@ navl ul, footer ul{
     h1 {
         font-size: 3em;
         font-family:'Helvetic', 'Arial','Sans-Serif';
-         text-align: center; 
+         text-align: right; 
         }
         
      p {
      font-size: 1.5em;
      line-height: 1.4em;
      color: #333;
-     text-align: center;
+     text-align: right;
      letter-spacing:2px;
            
      }
@@ -46,13 +44,13 @@ navl ul, footer ul{
      footer {
              border-top: 1px solid #d5d5d5;
              font-size: .8em;
-           text-align: center;
+           text-align: right;
              }
              
         ul.posts {
                   margin: 20px auto 40px;
                   font-size: 1.5em;
-              text-align: center;
+              text-align: right;
                   }
                   
          ul.posts li  {
