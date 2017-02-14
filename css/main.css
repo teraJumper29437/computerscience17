@@ -29,14 +29,14 @@ navl ul, footer ul{
     h1 {
         font-size: 3em;
         font-family:'Helvetic', 'Arial','Sans-Serif';
-         text-align: right; 
+         text-align: left; 
         }
         
      p {
      font-size: 1.5em;
      line-height: 1.4em;
      color: #333;
-     text-align: right;
+     text-align: left;
      letter-spacing:2px;
            
      }
@@ -55,19 +55,21 @@ navl ul, footer ul{
                   
          ul.posts li  {
          list-style: none;
-               text-align: center;
+               text-align: right;
          }
                        
              .patrons {
                    margin:10px auto 30px;
                    font-family:'Raleway';
                    line-height: 1.5em;
-                   text-align:center; }
+                   text-align:right;
+      }
                   
              .random {
                    margin: 15px auto 40px;
                    font-family:'Tahoma';
-                   color:
+                   color:Rgb(111,183,243);
+                   text-align:right;
                    
                    
                    
