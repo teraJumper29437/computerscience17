@@ -12,20 +12,20 @@ navl ul, footer ul{
        na vul li, footer ul li {
            display: inline;
            margin-right: 20px;
-             text-align: center;
+             text-align: left;
              color: Red;
            }
            
  a {
     text-decoration: none;
     color: #999;
-       text-align: center;
+       text-align: left;
        font-family: 'Verdana';
     }
     
   a:hover {
           text-decoration: underline;
-        text-align: center;
+        text-align: left;
           }
           
     h1 {
