@@ -87,6 +87,13 @@ navl ul, footer ul{
                   border: 5px ridge Rgb(175,4,255);
             }
                   
+            .title{
+                  margin40px;
+                  font-family:'Palotino';
+                  text-align: center;
+                  line-height 1.5em;
+                  border: 5px groove Hsl(83%,73%,56%);
+            }
             
                    
                    
