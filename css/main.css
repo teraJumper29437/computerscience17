@@ -26,7 +26,8 @@ body {
 navl ul, footer ul{
        font-family: 'Helvetica','arial','sans-Serif';
        padding: 0px;       list-style: none;
-       font-weigth: bold;
+      font-weight: bold;}
+
        na vul li, footer ul li {
            display: inline;
            margin-right: 20px;
