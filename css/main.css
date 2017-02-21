@@ -4,6 +4,24 @@ body {
       background:
       border:4px solid Rgb(30,255,252);
       }
+
+  .title{
+          margin:40px;
+          font-family:'Palotino';
+          text-align: center;
+          line-height 1.5em;
+          border: 5px groove Hsl(83%,73%,56%);
+          }
+
+ .background{
+              margin 20px;
+              font-family:'futura';
+              text-align:left;
+              line-height 1.5em;
+              border: 5px ridge Rgb(175,4,255);
+            }
+            
+                   
       
 navl ul, footer ul{
        font-family: 'Helvetica','arial','sans-Serif';
@@ -79,23 +97,9 @@ navl ul, footer ul{
             text-align:right;
             line-height: 1em;
             
-            .background{
-                  margin 20px;
-                  font-family:'futura';
-                  text-align:right;
-                  line-height 1.5em;
-                  border: 5px ridge Rgb(175,4,255);
-            }
+          
                   
-            .title{
-                  margin40px;
-                  font-family:'Palotino';
-                  text-align: center;
-                  line-height 1.5em;
-                  border: 5px groove Hsl(83%,73%,56%);
-            }
-            
-                   
+          
                    
                    
                    
