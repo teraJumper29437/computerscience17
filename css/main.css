@@ -74,6 +74,8 @@ navl ul, footer ul{
          ul.posts li  {
          list-style: none;
                text-align: right;
+               margin: 10px;
+               font-family: 'Raleway';
          }
                        
              .patrons {
