@@ -1,7 +1,6 @@
 body {
       margin:100px auto;
       width: 75%;
-      background-image:url("https:http://www.allsaintsnorman.org/templates/default/images/home1.jpg");
       border: 2px solid Rgb(174,4,250);
       text-align: center;
       }
@@ -12,6 +11,7 @@ body {
           text-align: center;
           line-height 1.5em;
           border: 5px groove Hsl(83%,73%,56%);
+          background-image:url(https"http://www.allsaintsnorman.org/templates/default/images/home1.jpg");
           }
 
  .background{
