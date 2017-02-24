@@ -26,7 +26,10 @@ body {
                    margin:10px auto 30px;
                    font-family:'Raleway';
                    line-height: 1.5em;
-                   text-align:right;
+                   text-align:center;
+                   margin:15px;
+                   color: HSL(57, 100%, 50%);
+                         
       }
 
        
