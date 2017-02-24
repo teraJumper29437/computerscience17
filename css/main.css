@@ -12,6 +12,9 @@ body {
           line-height 1.5em;
           border: 5px groove Hsl(0%, 116%, 255%);
           background-image:url(https"http://www.allsaintsnorman.org/templates/default/images/home1.jpg");
+             height: 400px;
+            background-position: bottom center;
+            border: 2px solid #D32;
           }
 
  .background{
