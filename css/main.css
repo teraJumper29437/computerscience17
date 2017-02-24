@@ -29,6 +29,7 @@ body {
                    text-align:center;
                    margin:15px;
                    color: HSL(0%, 116%, 255%);
+                  border: 1px groove #AF601A;
                          
       }
 
@@ -37,7 +38,7 @@ body {
                    margin: 15px auto 40px;
                    font-family:'Tahoma';
                    color:Rgb(111,183,243);
-                   text-align:right;
+                   text-align:center;
       }
             
                    
